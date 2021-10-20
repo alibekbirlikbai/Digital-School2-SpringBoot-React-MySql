@@ -75,5 +75,5 @@
 
 ### 6.Также на странице 'List of Students', можно выйти из аккаунта нажав на кнопку 'logout', после чего нас переноправит обратно на главную страницу Аутентификации.
 ---
-##Demo
+## Demo
 ![project-demo](https://user-images.githubusercontent.com/87764579/138043067-ff8d4c52-1586-455a-8c98-1646ab5e53cc.png)
