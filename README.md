@@ -29,7 +29,7 @@
 
 ## 1.Download:
 
-`git clone https://github.com/alibekbirlikbai/Digital-School-React-MySql-NodeJs.git`
+`git clone https://github.com/alibekbirlikbai/Digital-School2-SpringBoot-React-MySql.git`
 
 ## 2.Launch Client:
 
